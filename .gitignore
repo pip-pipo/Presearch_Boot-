@@ -1,0 +1,6 @@
+/geckodriver.log/
+/chrome-data/
+.env
+__pycache__
+geckodriver
+chrome-data
